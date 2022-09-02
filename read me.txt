@@ -1,0 +1,3 @@
+make sure you have word cloud and beautifulsoup libraries in your environment.
+
+how to run: the code is a notebook so you should run it google colab or jupiter.
